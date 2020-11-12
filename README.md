@@ -1,5 +1,7 @@
 # Lebenslauf - Chris Christens
 
+!(bild.png "Lebenslauf Bild")
+
 Name: Chris Christens
 Geschlecht: Männlich
 Geburtsdatum: 12.05.1995
