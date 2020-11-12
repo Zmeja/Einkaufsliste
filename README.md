@@ -1,7 +1,7 @@
 # Lebenslauf - Chris Christens
 
 Name: Chris Christens
-Geschlecht: Männlich
+Geschlecht: divers
 Geburtsdatum: 12.05.1995
 
 **Schullebenslauf**
@@ -12,6 +12,7 @@ Geburtsdatum: 12.05.1995
 
 **Arbeitslebenslauf**
 * 2017 - 2019 SysAdmin bei SteineSchleifenUndCo
+* 2019 - 2019 Gehilfe bei DJ Khaled
 * 2019 - 2020 Programmierer bei SteineSchleifenUndCo
 
 **Vergangene Erfolge**
